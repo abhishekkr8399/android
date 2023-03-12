@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2Calc</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="clr">Clear</string>
+    <string name="textview"></string>
+    <string name="num1"></string>
+    <string name="num2"></string>
+
+
+</resources>
